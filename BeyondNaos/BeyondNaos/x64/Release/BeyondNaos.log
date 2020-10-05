@@ -1,0 +1,36 @@
+﻿  Animation.cpp
+c:\gp\year-3-team-project-team-2\beyondnaos\beyondnaos\animation.cpp(42): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Background.cpp
+c:\gp\year-3-team-project-team-2\beyondnaos\beyondnaos\background.cpp(58): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Bat.cpp
+c:\gp\year-3-team-project-team-2\beyondnaos\beyondnaos\bat.cpp(104): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Enemy.cpp
+c:\gp\year-3-team-project-team-2\beyondnaos\beyondnaos\enemy.cpp(63): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  EnemyFireBall.cpp
+c:\gp\year-3-team-project-team-2\beyondnaos\beyondnaos\enemyfireball.cpp(91): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  FireBall.cpp
+c:\gp\year-3-team-project-team-2\beyondnaos\beyondnaos\fireball.cpp(105): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  GameStateManager.cpp
+c:\gp\year-3-team-project-team-2\beyondnaos\beyondnaos\gamestatemanager.cpp(42): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Heart.cpp
+c:\gp\year-3-team-project-team-2\beyondnaos\beyondnaos\heart.cpp(37): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Level1State.cpp
+c:\gp\year-3-team-project-team-2\beyondnaos\beyondnaos\level1state.cpp(280): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Level2State.cpp
+c:\gp\year-3-team-project-team-2\beyondnaos\beyondnaos\level2state.cpp(167): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Main.cpp
+c:\gp\year-3-team-project-team-2\beyondnaos\beyondnaos\main.cpp(42): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  MenuState.cpp
+c:\gp\year-3-team-project-team-2\beyondnaos\beyondnaos\menustate.cpp(126): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Player.cpp
+c:\gp\year-3-team-project-team-2\beyondnaos\beyondnaos\player.cpp(387): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Portal.cpp
+c:\gp\year-3-team-project-team-2\beyondnaos\beyondnaos\portal.cpp(45): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Slime.cpp
+c:\gp\year-3-team-project-team-2\beyondnaos\beyondnaos\slime.cpp(109): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Slugger.cpp
+c:\gp\year-3-team-project-team-2\beyondnaos\beyondnaos\slugger.cpp(133): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Tile.cpp
+c:\gp\year-3-team-project-team-2\beyondnaos\beyondnaos\tile.cpp(21): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  TileMap.cpp
+c:\gp\year-3-team-project-team-2\beyondnaos\beyondnaos\tilemap.cpp(123): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?

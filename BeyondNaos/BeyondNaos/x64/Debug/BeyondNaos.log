@@ -1,0 +1,12 @@
+﻿  Level1State.cpp
+c:\gp\2019-games-fleadh-game-studio-college-entry-m-murtaza75\beyondnaos\beyondnaos\mapobject.h(25): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\gp\2019-games-fleadh-game-studio-college-entry-m-murtaza75\beyondnaos\beyondnaos\mapobject.h(26): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  BeyondNaos.vcxproj -> C:\gp\2019-games-fleadh-game-studio-college-entry-m-murtaza75\BeyondNaos\x64\Debug\BeyondNaos.exe
