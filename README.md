@@ -26,4 +26,4 @@ Or requires Visual Studio to run it.
 
 #### Main Menu
 
-![Main Menu](https://github.com/m-murtaza75/LIT-Year3-BeyondNaos/tree/master/Screenshots/MainMenu.png "Main Menu")
+![Main Menu](https://github.com/m-murtaza75/LIT-Year3-BeyondNaos/tree/main/Screenshots/MainMenu.png "Main Menu")
