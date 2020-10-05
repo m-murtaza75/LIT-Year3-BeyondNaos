@@ -21,4 +21,4 @@ Game executable application folder path: LIT-Year3-BeyondNaos\BeyondNaos\x64\Deb
 Or requires Visual Studio to run it.
 
 #### Game Trailer by Gary:
-[![Game Trailer](https://github.com/m-murtaza75/LIT-Year3-BeyondNaos/tree/master/Screenshots/MainMenu.png)](https://www.youtube.com/watch?v=i_zBdCzQmKE "See video on YouTube")
+[![Game Trailer](https://github.com/m-murtaza75/LIT-Year3-BeyondNaos/tree/master/Screenshots/MainMenu.png)](https://youtu.be/i_zBdCzQmKE "See video on YouTube")
